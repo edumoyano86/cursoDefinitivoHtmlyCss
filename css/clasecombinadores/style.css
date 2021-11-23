@@ -1,0 +1,16 @@
+/* h2 + p {
+    color: red;
+} Adjacent Siblings o hermanos adyacentes */
+
+/* h2 ~ p {
+    color: red;
+} General Sibling o hermanos generales */
+
+/* div > p {
+    color: red;
+} combinadores hijo */
+
+div p {
+    color: red;
+}
+/* combinadores descendiente */

@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.desafio {
+    display: inline-table;
+    margin: 10%;
+}
+
+.cuadros {
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;    
+}
+
+#cuadrogrande {
+    background-color: cadetblue;
+    font-size: 20px;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    padding: 75px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cuadrochico {
+    background-color: coral;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    padding: 20px;
+    width: 150px;
+    position: relative;
+    top: 30px;
+}
+
+img {
+    width: 100%;
+    margin: auto;
+}

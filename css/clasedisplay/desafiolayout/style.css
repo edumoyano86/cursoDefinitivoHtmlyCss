@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: powderblue;
+}
+
+.logo, .nav, .ul li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.nav {
+    position: absolute;
+    right: 0;
+}
+
+.ul {
+    list-style: none;
+}
+
+.main {
+    background-color: grey;
+}
+
+.sectionuno {
+    display: inline-block;
+    height: 100%;
+    padding: 10px;
+    background-color: salmon;
+}
+
+.sectionuno p {
+    background-color: plum;
+    margin: 3px;
+    height: 100px;
+    width: 100px;
+}
+
+.sectiondos {
+    display: inline-block;
+    padding: 10px;
+    position: absolute;
+}
+
+footer {
+    background-color: peru;
+    padding: 70px;
+}
+
+.divone, .divtwo {
+   
+    display: inline-block;
+    margin: 5px;
+}
+
+.divtwo {
+    position: absolute;
+    right: 0;
+    padding-bottom: 60px;
+}
